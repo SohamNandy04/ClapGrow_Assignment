@@ -1,4 +1,4 @@
-#Insurance Premium Comparison
+# Insurance Premium Comparison
 
 We are give a insurance policy, with a Net Premium stated as Rs 28,95,421.00.
 
@@ -8,6 +8,8 @@ We need to compare these two values using Python and check whether the Net Premi
 
 The following code is given comparePremium.py
 
+# Google Sheets 
 ![sheetpic](https://github.com/SohamNandy04/ClapGrow_Assignment/assets/100869141/91befff2-2fd0-4bc7-8ec5-a6f85095ac1e)
 
+# Console Output
 ![photo](https://github.com/SohamNandy04/ClapGrow_Assignment/assets/100869141/dac037ab-6a7e-4b8f-9038-c1892d7662af)
